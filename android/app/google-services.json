@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "617899737180",
+    "project_id": "emlakapp-49771",
+    "storage_bucket": "emlakapp-49771.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617899737180:android:904ae712e0b93a8c6ea699",
+        "android_client_info": {
+          "package_name": "com.example.emlak_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_hYZav3wEBMeSJYg2ueKKs1ZJkic5o4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
